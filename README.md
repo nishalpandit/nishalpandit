@@ -2,13 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=220&section=header&text=Nishal%20Kumar%20Pandit&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20%26%20Django%20Developer%20%7C%20Full%20Stack%20Web%20Engineer&descFontSize=19&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <a href="https://github.com/nishalpandit">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=620&lines=Python+%26+Django+Developer;Backend+%26+REST+API+Architect;Full+Stack+Web+Developer;Turning+Complex+Logic+into+Clean+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=620&lines=Python+%26+Django+Developer;Full+Stack+Web+Developer;Building+Clean+%26+Reliable+Web+Apps;Always+Learning+and+Building" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <a href="mailto:nk6116060@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nk6116060%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email%20Me-nk6116060%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/nishalpandit">
     <img src="https://img.shields.io/badge/GitHub-nishalpandit-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -20,27 +20,21 @@
 
 ---
 
-### 👨‍💻 Engineering Profile
+### 👋 About Me
 
-```bash
-$ nishal --status
-┌── Nishal Kumar Pandit ────────────────────────────────────────────────────────┐
-│ 📍 Location      : Ranchi, India                                              │
-│ 💼 Specialization: Python, Django & Full Stack Web Development                │
-│ 🛠️ Core Stack    : Python, Django, REST APIs, JavaScript, PostgreSQL, SQLite  │
-│ 🚀 Current Focus : Scalable Marketplace Platforms & Enterprise Billing Systems│
-│ 🎯 Code Mantra   : "Write clean, modular code that is simple and reliable."    │
-└───────────────────────────────────────────────────────────────────────────────┘
-```
+Hey there! I am **Nishal**, a passionate Python and Django developer based in Ranchi, India.
 
-- 🔭 **Currently Building**: **[Infinity Ventures](https://github.com/nishalpandit/Infinity-Ventures)** — An end-to-end multi-tier service marketplace connecting clients with verified contractors, complete with bidding engines, credit-based wallets, and super-admin CMS.
-- ⚡ **Core Competencies**: Backend API architecture, relational database schema design, authentication flows, business logic modeling, and clean responsive frontends.
-- 💬 **Ask Me About**: Python, Django, REST APIs, Database Management, and Full-Stack Web Development.
-- 📫 **Contact**: Open to software developer roles, project collaborations, and freelance opportunities.
+I love building practical web applications that solve everyday business problems. Most of my time is spent creating solid backend architectures with Django and REST APIs, modeling clean databases, and connecting them to fast, responsive user interfaces.
+
+* 📍 **Location:** Ranchi, India
+* 💻 **Primary Focus:** Python, Django, REST APIs, and Full Stack Web Development
+* 🚀 **Currently Building:** [Infinity Ventures](https://github.com/nishalpandit/Infinity-Ventures), a full-featured service marketplace with live quotation bidding, credit wallets, and admin workflows
+* 💡 **What Drives Me:** Writing simple, readable code that works reliably and scales naturally
+* ☕ **Let us Connect:** Always open to freelance projects, engineering roles, and tech conversations
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Everyday Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,tailwind,postgres,sqlite,git,github,vscode,postman&perline=7&theme=dark" alt="Tech Stack Icons" />
@@ -49,27 +43,27 @@ $ nishal --status
 <br />
 
 <details open>
-<summary><b>Detailed Skills Breakdown</b></summary>
+<summary><b>Detailed Breakdown</b></summary>
 <br />
 
-| Category | Technologies |
+| Area | Technologies |
 | :--- | :--- |
-| **Backend & Frameworks** | Python, Django, Django REST Framework, RESTful APIs, MVC / MVT Architecture |
-| **Frontend & UI** | HTML5, CSS3, JavaScript, Bootstrap 5, Tailwind CSS, Responsive Design |
-| **Databases** | PostgreSQL, SQLite, Relational Data Modeling, Query Optimization |
-| **Tools & Version Control** | Git, GitHub, Postman (API Testing), VS Code |
+| **Backend** | Python, Django, Django REST Framework, REST APIs |
+| **Frontend** | HTML5, CSS3, JavaScript, Bootstrap 5, Tailwind CSS |
+| **Databases** | PostgreSQL, SQLite |
+| **Tools** | Git, GitHub, VS Code, Postman |
 
 </details>
 
 ---
 
-### 🌟 Featured Repositories & Highlights
+### 🌟 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/nishalpandit/Infinity-Ventures">⚡ Infinity Ventures</a></h4>
-      <p>Full-scale on-demand contractor marketplace. Engineered dynamic job bidding systems, vendor bid-credit wallet settlement, KYC approvals, and unified Super-Admin CMS.</p>
+      <p>A full featured on demand service marketplace connecting customers with verified local professionals. Includes dynamic quotation bidding, vendor credit wallet management, KYC verification, and a unified Super Admin dashboard.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
@@ -79,7 +73,7 @@ $ nishal --status
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/nishalpandit/power_solution">⚡ Power Solution ERP</a></h4>
-      <p>Enterprise billing, quotation, invoice, and purchase order management system. Features automated tax calculations, cash billing, user management, and stock-in tracking.</p>
+      <p>Complete enterprise software built for billing and inventory management. Handles automated tax calculations, quotation generation, invoice creation, and purchase order tracking.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
@@ -91,7 +85,7 @@ $ nishal --status
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/nishalpandit/sai_decore">📦 Sai Decore ERP</a></h4>
-      <p>Enterprise resource and inventory tracking portal designed for interior design operations, featuring dispatch workflows, invoice generation, and audit logs.</p>
+      <p>Resource and stock tracking portal designed for interior decor operations. Features order dispatch management, customer invoice generation, and full audit logs.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
@@ -101,7 +95,7 @@ $ nishal --status
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/nishalpandit/codesync_AI">🤖 CodeSync AI</a></h4>
-      <p>Collaborative code editor platform designed for paired programming with real-time editing workflows, code review tracking, and project synchronization.</p>
+      <p>A collaborative coding platform designed for pair programming with synchronized editing, project organization, and clean developer workflows.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -113,7 +107,7 @@ $ nishal --status
 
 ---
 
-### 📊 GitHub Analytics & Performance
+### 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nishalpandit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
@@ -132,11 +126,11 @@ $ nishal --status
 
 ---
 
-### 🤝 Connect With Me
+### 🤝 Get in Touch
 
 <div align="center">
   <a href="mailto:nk6116060@gmail.com">
-    <img src="https://img.shields.io/badge/Direct_Email-nk6116060%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email%20Me-nk6116060%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/nishalpandit">
     <img src="https://img.shields.io/badge/GitHub-Follow%20%40nishalpandit-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -146,7 +140,9 @@ $ nishal --status
 <br />
 
 <div align="center">
-  <i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i>
-  <br /><br />
+  <p style="font-size: 15px; color: #94a3b8;">
+    Thanks for visiting! Feel free to reach out if you want to collaborate or talk about web development.
+  </p>
+  <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
