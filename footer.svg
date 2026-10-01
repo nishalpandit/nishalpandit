@@ -1,0 +1,80 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#172554"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40"
+            fill="none"
+            stroke="#ffffff"
+            stroke-opacity="0.035"
+            stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="120" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="120" rx="18" fill="url(#grid)"/>
+
+  <!-- Top wave -->
+  <path d="M0 18
+           C150 55 250 -5 400 25
+           S650 65 800 25
+           S1050 -5 1200 18"
+        fill="none"
+        stroke="url(#line)"
+        stroke-width="2"
+        opacity="0.65"/>
+
+  <path d="M0 25
+           C150 62 250 2 400 32
+           S650 72 800 32
+           S1050 2 1200 25"
+        fill="none"
+        stroke="#38bdf8"
+        stroke-width="1"
+        opacity="0.2"/>
+
+  <!-- Center text -->
+  <text x="600"
+        y="67"
+        text-anchor="middle"
+        fill="#cbd5e1"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="16"
+        font-weight="500">
+    Building • Learning • Creating
+  </text>
+
+  <!-- Accent -->
+  <rect x="520" y="82" width="160" height="2" rx="1" fill="url(#line)" opacity="0.7"/>
+
+  <!-- Code decoration -->
+  <text x="45"
+        y="78"
+        fill="#38bdf8"
+        opacity="0.45"
+        font-family="monospace"
+        font-size="15">
+    &lt;/&gt;
+  </text>
+
+  <text x="1130"
+        y="78"
+        fill="#818cf8"
+        opacity="0.45"
+        font-family="monospace"
+        font-size="15">
+    { }
+  </text>
+
+</svg>
